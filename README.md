@@ -2,7 +2,7 @@
 
 **PROJECT:** 
 
-Creation of a device for monitoring movements during sleep, without contact with the user (embedded system), with the aim, for example, of providing data indicating the presence of some pathology, such as disturbance of periodic limb movements and the restless legs syndrome. As a main electronic component, a microwave motion sensor was used.
+Creation of a device for monitoring movements during sleep, without contact with the user (embedded system), with the aim, for example, of providing data indicating the presence of some pathology, such as disturbance of periodic limb movements and the restless legs syndrome. As a main electronic component, a microwave motion sensor was used, your signals are received during sleep, processed and displayed on the LCD.
 
 **STEPS:** 
 
@@ -16,11 +16,11 @@ Creation of a device for monitoring movements during sleep, without contact with
 ![DIAGRAMA - Page 1](https://user-images.githubusercontent.com/66881028/84957769-cf51af80-b0f3-11ea-9225-5425bea2fbe9.png)
 
 **FILES:** 
-* [sleep_quality.ino](https://github.com/MiguelCastro3/Monitoring-of-movements-during-sleep-without-contact/blob/master/sleep_quality.ino) - 
+* [sleep_quality.ino](https://github.com/MiguelCastro3/Monitoring-of-movements-during-sleep-without-contact/blob/master/sleep_quality.ino) - code with all the functionalities of the implemented device necessary to create an embedded system, using the Arduino microcontroller.
 * [Suporte.ipt](https://github.com/MiguelCastro3/Monitoring-of-movements-during-sleep-without-contact/blob/master/Suporte.ipt) - Solidworks file with the drawing of the box of the case prototype.
 * [Encaixe.ipt](https://github.com/MiguelCastro3/Monitoring-of-movements-during-sleep-without-contact/blob/master/Encaixe.ipt) - Solidworks file with the drawing of the cover of the case prototype.
 * [Suporte_proto.ipt](https://github.com/MiguelCastro3/Monitoring-of-movements-during-sleep-without-contact/blob/master/Suporte_proto.ipt) - Solidworks file with the drawing of the supports for the electronic circuit inside the case prototype.
 
 **RESULTS:** 
 
-![Sem Título](https://user-images.githubusercontent.com/66881028/84807205-ccc15e00-affe-11ea-8e53-c27e4205460c.png)
+![case_explicacao](https://user-images.githubusercontent.com/66881028/84958997-6c154c80-b0f6-11ea-8b39-e79c09cf3e45.PNG)
